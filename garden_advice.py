@@ -4,7 +4,7 @@ Garden Advice App
 This program gives gardening advice based on the month entered by the user.
 It demonstrates basic Python logic, functions, dictionaries, and user input.
 """
-# This function returns gardening advice based on the month.
+# Function responsible for returning gardening advice for a given month.
 # Dictionary storing gardening advice for each month
 GARDEN_ADVICE = {
     "january": "Plan your garden layout and order seeds.",
